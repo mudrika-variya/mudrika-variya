@@ -113,8 +113,6 @@ I focus on building applications that are not just functional — but **fast, sc
 ## 📫 Let's Connect
 
 📧 Email: **[mudrikavariya79@gmail.com](mailto:mudrikavariya79@gmail.com)**
-💼 LinkedIn: (Add your link here)
-🌐 Portfolio: (Add your website link here)
 
 ---
 
