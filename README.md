@@ -108,6 +108,10 @@ I focus on building applications that are not just functional — but **fast, sc
 ✔ Play Store & App Store Publishing
 ✔ Product Scalability Planning
 
+## 🗂 Projects
+**See my projects here:** [PROJECTS.md](PROJECTS.md)
+
+Feel free to explore for details on each app.
 ---
 
 ## 📫 Let's Connect
